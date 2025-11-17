@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+    justify-content: left;
+}
+.flex {
+    text-align: center;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.2);
+    background: white;
+    border-radius: 10px;
+}
