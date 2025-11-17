@@ -1,0 +1,30 @@
+.container {
+    width: 300px;
+    padding: 15px;
+    margin: 0 auto;
+    border: 1px solid black;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    background-color: aliceblue;
+}
+.container img {
+    width: 100%;
+    border-radius: 10px;
+}
+.rating-box {
+    display: inline-flex;
+    background-color: green;
+    color: white;
+    align-items: center;
+}
+.rating-count {
+    color: grey;
+}
+.price {
+    font-weight: bold;
+}
+.img1 {
+    width: 20%;
+    height: auto;
+}
+    
+    
